@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {ImageBackground, Image, StyleSheet, Text, View, TouchableOpacity, Button} from 'react-native';
 
-const image = require('../../assets/machine.png');
+const image = require('../../assets/machine.png');   
 
 const DiagramScreen = () => {
     return (
